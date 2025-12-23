@@ -2,3 +2,4 @@
 new stroke  
 add line
 new branch line
+new line for GUI
